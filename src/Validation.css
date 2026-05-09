@@ -1,0 +1,11 @@
+.chip .cross {
+  visibility: hidden;
+}
+
+.chip:hover .cross {
+  visibility: visible;
+}
+.fatime{
+   margin-bottom: 11px;
+   margin-left: 10px;
+}
