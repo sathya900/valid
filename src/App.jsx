@@ -6,6 +6,7 @@ function App(){
     <div>
        <h2>created file</h2>
        <h3>git setup</h3>
+       <h3>successfully pushed</h3>
     </div>
   )
 }
